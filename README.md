@@ -5,9 +5,7 @@ Solutions for [https://oj.leetcode.com/](https://oj.leetcode.com/)
 
 Progress: 2/152
 
-1. [maximum-product-subarray](https://oj.leetcode.com/problems/maximum-product-subarray/) 
-	
-	[code](src/main/java/maximum_product_subarray/Solution.java)
+1. maximum-product-subarray [problem](https://oj.leetcode.com/problems/maximum-product-subarray/) [solution](src/main/java/maximum_product_subarray/Solution.java)
 
 2. [https://oj.leetcode.com/problems/reverse-words-in-a-string/](https://oj.leetcode.com/problems/reverse-words-in-a-string/)
 
