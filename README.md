@@ -3,7 +3,7 @@ leetcode
 
 Solutions for [https://oj.leetcode.com/](https://oj.leetcode.com/)
 
-Progress: 4/152
+Progress: 5/152
 
 Name | Problem | Solution
 ------------ | ------------- | ------------
